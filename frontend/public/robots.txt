@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://knightsisofficial.web.app/sitemap.xml
